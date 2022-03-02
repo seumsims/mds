@@ -3,6 +3,10 @@
 
 
 
+#header {
+    background-color: rgb(0 0 0 / 31%);
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -222,7 +226,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg6.jpg") bottom left;
+		background: #348cb2 url("images/Rocky Mountains over Rainbow.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
